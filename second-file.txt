@@ -1,8 +1,3 @@
 This is another file for testing
 welcome welcome
 
-<<<<<<< HEAD
-lets get a longer commit
-this is a mistake
-=======
->>>>>>> parent of 19217a1 (this is a test)
